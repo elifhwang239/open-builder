@@ -15,3 +15,4 @@ Notes and usage details for open-builder.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
